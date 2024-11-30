@@ -1,2 +1,2 @@
-# Zera-Flutter
+# ColorNotes
 Istinye University Student Projects.
