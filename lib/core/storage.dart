@@ -1,0 +1,1 @@
+// hafızaya kalıcı yazma/okuma işlemleri

@@ -1,0 +1,1 @@
+// sayfalar ve navigasyon işlemleri
